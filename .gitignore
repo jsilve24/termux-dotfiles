@@ -1,2 +1,8 @@
 /straight/
 /transient/
+/.org-id-locations
+/auto-save-list/
+/elpa/
+/history
+/init.el~
+/org-persist/
